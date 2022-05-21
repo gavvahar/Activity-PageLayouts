@@ -1,5 +1,15 @@
+body{
+  text-align: center;
+  color: rgb(255, 251, 251);
+}
 span {
   display: inline-block;
+}
+html{
+  background-color: black;
+}
+#pic{
+  background-color: gray;
 }
 /* span {
   display: inline-block;
