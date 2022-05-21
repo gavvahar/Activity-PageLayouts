@@ -11,6 +11,9 @@ html{
 #pic{
   background-color: gray;
 }
+p{
+  width: 200px;
+}
 /* span {
   display: inline-block;
   background-color: lightblue;
