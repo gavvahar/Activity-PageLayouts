@@ -1,9 +1,5 @@
 body{
   text-align: center;
-  color: rgb(255, 251, 251);
-}
-span {
-  display: inline-block;
 }
 html{
   background-color: black;
@@ -14,32 +10,13 @@ html{
 p{
   width: 200px;
 }
-/* span {
+ span {
   display: inline-block;
   background-color: lightblue;
   padding: 5px;
   border: 1px solid darkgray;
-} */
-/* 
-#one {
-  background-color:lightblue;
-  width: 150px;
-  height: 200px;
 }
-
-#two {
-  background-color: cornflowerblue;
-  width: 200px;
-  height: 50px;
-}
-
-#three {
-  background-color: rgb(187, 189, 243);
-  width: 175px;
-  height: 150px;
-} */
-
-/* div,
+div,
 span {
   margin: 1px;
 }
@@ -54,7 +31,3 @@ span {
 #text span {
   padding: 25px 30px;
 }
-
-#text span {
-  background-color: white;
-} */
